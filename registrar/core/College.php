@@ -44,3 +44,4 @@ class College
  return $is_success;
  }
 }
+
